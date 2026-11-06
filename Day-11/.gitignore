@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+﻿*.class
+student.txt
+=======
+*.class
+out/
+bin/
+.vscode/
+>>>>>>> 69f1ee1758ad8b47d6ce6c507d4b2939ab1798c1
