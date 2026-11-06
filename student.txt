@@ -1,3 +1,0 @@
-Student Name: Dhananjay Bankar
-Course: Java Full Stack Development
-Internship Day: 11
